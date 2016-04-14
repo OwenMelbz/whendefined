@@ -1,12 +1,12 @@
 {
   "name": "whendefined",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {},
-  "devDependencies" : {
-    "mocha" : "*",
-    "chai" : "*",
-    "sinon" : "*",
-    "grunt" : "*",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon": "*",
+    "grunt": "*",
     "grunt-contrib-coffee": "*",
     "grunt-contrib-uglify": "*",
     "matchdep": "*",
