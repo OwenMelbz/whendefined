@@ -1,0 +1,8 @@
+{
+  "name": "whendefined",
+  "description": "Provides a callback for once an object has been defined",
+  "main": "dist/whendefined.js",
+  "version": "0.0.1",
+  "dependencies": {}
+}
+
